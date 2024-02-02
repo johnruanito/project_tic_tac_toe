@@ -1,0 +1,12 @@
+git push 
+git pull 
+git fech
+
+git log --oneline --decorete
+
+git branch
+git checkout "branch escolhida"
+volta para a branch principal
+depois junta as branch
+depois unir o projeto
+git merge 
